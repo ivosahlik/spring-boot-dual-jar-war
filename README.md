@@ -17,7 +17,7 @@ java -jar target/dual.jar
 mvn clean package -Pdev; java -jar target/dual.jar
 
 ## One terminal command for windows :(
-mvn clean package -Pdev && java -jar target/dws.jar
+mvn clean package -Pdev && java -jar target/dual.jar
 
 or best to launch app is Intellij Idea like SpringApplication.run :)
 
